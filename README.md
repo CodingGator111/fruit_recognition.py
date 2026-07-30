@@ -19,8 +19,7 @@ Fruit Recognition and Identification
   curl -fsSL https://ollama.com/install.sh | sh
 
   
-![add image descrition here](direct image link here)
-![The output of the code](image-1.png)
+!(https://drive.google.com/file/d/1LOmsb2wVT7ctKlZtNx3hVzyWXEbRxaKa/view?usp=sharing)
 
 ## The Algorithm
 
@@ -37,7 +36,9 @@ Sample question: ollama pull llama3.2:1b "Where do dragonfruits grow best?"
 
 The program should then output a response.
 
+https://drive.google.com/file/d/1xq6ibmeHDdJMOnLpod-FONQu44g516US/view?usp=sharing
+
 If you want to hide the background processes (to make the output cleaner), you can put the command: ollama serve > /dev/null 2>&1 &
 -> Then run ollama run llama3.2:1b "(your question)"
 
-[View a video explanation here](video link)
+(https://drive.google.com/file/d/10KQAOuNF-DEiU2fnmSEszxS-swy-AJnw/view?usp=sharing) -> Project demo video
